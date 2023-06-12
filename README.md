@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-## Introduce
-- Chungbuk Science Highschool
-- Seoul Nat'l Univ.
-  - Collage of Liberal Studies
-  - Industrial Engineering
-  - Baseball team Photons
+## I'm studying...
+- Industrial engineering
+- python
 
 
 <!--
