@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Sangwon SON
+## Introduce
 - Chungbuk Science Highschool
 - Seoul Nat'l Univ.
   - Collage of Liberal Studies
