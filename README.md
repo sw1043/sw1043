@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ## I'm studying...
-- Industrial engineering
-- python
+- Industrial Engineering
+- Python
+- Deep Learning
 
 
 <!--
