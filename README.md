@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## I'm studying...
+### I'm studying...
 - Industrial Engineering
 - Python
 - Deep Learning
