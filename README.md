@@ -1,10 +1,7 @@
-## Hi there 👋
+## Hi,
 
-### I'm studying...
-- Industrial Engineering
-- Python
-- Deep Learning
-
+### My open projects - 
+- ReserveYourClubroom (in progress)
 
 <!--
 **s1Son/s1Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
