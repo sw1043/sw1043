@@ -1,6 +1,6 @@
 ## Hi,
 
-### My open projects - 
+### My projects - 
 - **Ringdove-Nest** : Reserve Your Clubroom (in progress)
 
 <!--
