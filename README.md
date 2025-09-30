@@ -1,7 +1,4 @@
-## Hi,
-
-### My projects - 
-- **HoldtheRoom** : Reserve Your Clubroom (in progress)
+- Hi
 
 <!--
 **s1Son/s1Son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
